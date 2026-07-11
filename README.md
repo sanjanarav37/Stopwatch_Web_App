@@ -27,12 +27,6 @@ Designed with a clean dark interface, smooth animations, and responsive layout t
 
 ---
 
-## 📷 Preview
-
-> Add your project screenshot here.
-
----
-
 ## 🚀 Live Demo
 
 Coming Soon...
